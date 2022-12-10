@@ -5,7 +5,7 @@
 1. Mount drive to the colab notebook and upload the required dataset and models provided in the links below.
 2. The models for diffrent thresholds [2,4 and 10] are present in the repo.
 3. The results[base accuracy and target attack accuracy] provided in report are based on the comparison of the modified and orignal network.
-4. Loading models into the colab can be directly used to reproduce results.
+4. Use the code given in colab to reproduce results.
 
 
 ```bash
